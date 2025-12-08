@@ -1,0 +1,24 @@
+{
+  "name": "signed-off",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushipandeybharatgroup/Signed-off.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushipandeybharatgroup/Signed-off/issues"
+  },
+  "homepage": "https://github.com/ayushipandeybharatgroup/Signed-off#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "lodash": "^4.17.21"
+  }
+}
